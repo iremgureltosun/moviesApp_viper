@@ -1,0 +1,21 @@
+PODS:
+  - lottie-ios (3.3.0)
+  - Swinject (2.7.1)
+
+DEPENDENCIES:
+  - lottie-ios (= 3.3.0)
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - lottie-ios
+  trunk:
+    - Swinject
+
+SPEC CHECKSUMS:
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+
+PODFILE CHECKSUM: 053f14430439fd4242de727af49a9dd8e1f60998
+
+COCOAPODS: 1.11.2
